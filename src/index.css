@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h4 {
+  padding-left: 40px;
+  color: orange;
+}
+.body {
+  padding-left: 400px;
+  padding-top: 55px;
+  padding-bottom: 700px;
+  background-color: oldlace;
+}
+.text {
+  font-size: 20px;
+  border: 2px solid grey;
+  background-color: lightgray;
+  width: 278px;
+  height: 50px;
+}
+.container {
+  background-color: navajowhite;
+}
+
+button {
+  width: 70px;
+  height: 70px;
+  border: 2px solid dimgrey !important;
+}
+
+
